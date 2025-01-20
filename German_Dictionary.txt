@@ -22,5 +22,3 @@ Doener - A popular food Germany originally introduced by Turkish immigrants. It 
 Apfelkuchen - Noun - Apple Pie
 Schloss - Noun - Lock 
 Eltz - Noun - Medieval Castle in Germany
-
-This is Zach's Test line
